@@ -1,4 +1,4 @@
-## Hi there 👋
+I work on Minecraft modpacks and stuff.
 
 <!--
 **WhitePhant0m/WhitePhant0m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
